@@ -105,10 +105,8 @@
 //         console.log(lastName1.toLowerCase());
 //         return lastName2;
 //     }
-//     if (lastName1.length > lastName2.length){
-//         console.log(lastName2.toLowerCase());
-//         return lastName1;
-//     }
+//     console.log(lastName2.toLowerCase());
+//     return lastName1;
 // }
 
 //10
